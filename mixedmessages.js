@@ -26,7 +26,7 @@ const placesList = [
     'Narnia', 
     'the north star', 
     'Agrabah', 
-    'Jormngandr', 
+    'Jormungandr', 
     'the great divide'];
 
 //function to create random text
